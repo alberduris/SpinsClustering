@@ -1,4 +1,4 @@
-# COVID-19 Literature Clustering
+# Spinned Sentences Clustering
 
 ![](cover/interactive_plot.png)
 
