@@ -5,8 +5,8 @@
 ### Goal
 Given a large amount of *spinned sentences* and rapidly spreading *webs*, it is difficult for a *SEO* to keep up with the *text spins* promptly. Can we cluster *spinned sentences* to make it easier for *SEOs* to find *dissimilar* *spinned sentences*? Clustering can be used to create a tool to identify *dissimilar* *spins*, given a target *sentence*. It can also reduce the number of *spins* one has to go through as one can focus on a cluster of *spins* rather than all.
 
-### [View the Interactive Spinned Sentences Clustering Plot]()
-https://maksimekin.github.io/COVID19-Literature-Clustering/plots/t-sne_covid-19_interactive.html
+### [View the Interactive Spinned Sentences Clustering Plot](https://alberduris.github.io/SpinsClustering/plots/t-sne_spins_interactive.html)
+https://alberduris.github.io/SpinsClustering/plots/t-sne_spins_interactive.html
 
 ![](plots/improved_cluster_tsne.png)
 *t-SNE Output Clustered For Visualization*
